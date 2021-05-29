@@ -1,0 +1,86 @@
+
+#main-doc{
+background-color:#b22222;}
+
+#navbar{
+position: fixed;
+min-width: 290px;
+top: 0px;
+left: 0px;
+width: 300px;
+height: 120%;
+border-right: solid;
+border-color: rgba(0, 22, 22, 0.4);
+}
+#navbar ul{
+height:500px;
+padding:0;
+overflow-y:auto;
+overflow-x:auto;
+}
+#navbar li{
+height:20px;
+padding:15px;
+font-size:20px;
+}
+.ali:hover{
+color:red;
+}
+#navbar header {
+color:white;
+background-color:#006400;
+font-size: 1.8em;
+font-weight: thin;
+}
+#main-doc{
+width:auto;
+margin-left:300px;
+padding-left:40px;
+padding-right:40px;
+padding-top:20px;
+padding-bottom:20px;
+}
+#main-doc header{
+color:#000000;
+font-size:25px;
+background-color:#FFE4B5;
+margin-bottom:30px;
+padding-top:10px;
+padding-bottom:10px;
+}
+#main-doc article{
+font-size:20px;
+background-color:#E5FFFF;
+}
+.img{
+display:block;
+border:2px;
+margin-left:auto;
+margin-right:auto;
+margin-bottom:30px;}
+main-doc section{
+margin-bottom:20px;
+}
+#mainheader{
+width:auto;
+height:auto;
+margin-left:320px;
+text-align:center;
+background-color:#0000CD;
+font-size:40px;
+margin-bottom:30px;
+}
+.whitetext{
+font-size:25px;
+color:white;
+text-align:left;
+}
+footer{
+width:760px;
+margin-left:340px;
+margin-top:20px;
+position:fixed;
+background-color:gray;
+color:yellow;
+font-size:20px;
+}
